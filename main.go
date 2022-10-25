@@ -122,6 +122,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"         // 月幕galgame
         _ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"         //coser
         _ "github.com/FloatTech/ZeroBot-Plugin/plugin/heisi"         //黑丝
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aipaint"       //ai绘图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf" // 鬼东西
 
 	//                               ^^^^                               //
